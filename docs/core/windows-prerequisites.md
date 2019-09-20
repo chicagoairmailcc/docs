@@ -50,7 +50,7 @@ For download links and more information, see [.NET downloads](https://dotnet.mic
 
 .NET Core 3.0 has the same prerequisites as other versions of .NET Core. However, if you want to use Visual Studio to create .NET Core 3.0 projects, you must use [Visual Studio 2019 16.3](https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=docs.microsoft.com&utm_campaign=inline+link&utm_content=download+vs2019) or newer. Visual Studio 2019 can be installed side-by-side with other versions of Visual Studio without conflict.
 
-## Prerequisites with Visual Studio 2019
+## Prerequisites with Visual Studio
     
 You can use any editor to develop .NET Core applications using the .NET Core SDK. Visual Studio 2019 provides an integrated development environment for .NET Core apps on Windows.
 
