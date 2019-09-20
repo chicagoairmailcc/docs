@@ -60,6 +60,8 @@ You can use any editor to develop .NET Core applications using the .NET Core SDK
 
 To develop .NET Core apps in Visual Studio 2019 using the .NET Core 3.0 SDK, download and install [Visual Studio 2019 version 16.3 or higher](/visualstudio/install/install-visual-studio). Select and install the **.NET Core cross-platform development** workload (in the **Other Toolsets** section).
 
+![Screenshot of Visual Studio 2019 installation with the ".NET Core cross-platform development" workload selected](./media/windows-prerequisites/vs-2019-workloads.png)
+
 # [.NET Core 2.x](#tab/netcore2x)
 
 To develop .NET Core apps in Visual Studio 2017 using the .NET Core 2.2 SDK, download and install [Visual Studio 2017 version 15.9.0 or higher](/visualstudio/install/install-visual-studio). Select and install the **.NET Core cross-platform development** workload (in the **Other Toolsets** section) selected.
